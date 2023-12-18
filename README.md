@@ -17,7 +17,7 @@
 
 <div align='center'>
     <h3>▸ Objectives to learn :) ◂</h3>
-	<img src='https://skillicons.dev/icons?i=ts,redux,electron,nextjs,postgres,mongodb&perline=6'/>
+	<img src='https://skillicons.dev/icons?i=ts,python,redux,nextjs,postgres,mongodb&perline=6'/>
 </div>
 
 <div align='center'>
