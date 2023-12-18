@@ -7,7 +7,7 @@
 
 <div align='center'>
     <h3>▸ Blog ◂</h3>
-    <p>◺ https://fedetomassini.vercel.app ◿</p>
+    <p>☯ https://fedetomassini.vercel.app ☯</p>
 </div>
 
 <div align='center'>
@@ -20,12 +20,11 @@
 	<img src='https://skillicons.dev/icons?i=ts,python,redux,nextjs,postgres,mongodb&perline=6'/>
 </div>
 
-<div align='center'>
-    <h3>▸ Contact ◂</h3>
-    <a href='fedetomassini.dev@gmail.com'><img src='https://skillicons.dev/icons?i=gcp'/></a>
-	<a href='https://www.linkedin.com/in/fedetomassini/'><img src='https://skillicons.dev/icons?i=linkedin'/></a>
-    <a href='https://discord.com/users/848281064241365062'><img src='https://skillicons.dev/icons?i=discord'/></a>
-</div>
-
 #
+
+<div align='center'>
+	
+[![GitHub Streak](https://streak-stats.demolab.com?user=fedetomassini&theme=catppuccin-mocha&hide_border=true&mode=weekly)](https://git.io/streak-stats)<br/>
 <img src='https://komarev.com/ghpvc/?username=fedetomassini&style=for-the-badge&color=d14d72'/>
+
+</div>
