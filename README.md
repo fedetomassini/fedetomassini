@@ -12,7 +12,7 @@
 
 <div align='center'>
     <h3>▸ Knowledge ◂</h3>
-	<img src='https://skillicons.dev/icons?i=html,css,sass,js,nodejs,bootstrap,express,react,git,tailwind,styledcomponents,vscode,vite&perline=13'/>
+	<img src='https://skillicons.dev/icons?i=html,css,sass,js,nodejs,bootstrap,express,react,git,tailwind,vite&perline=11'/>
 </div>
 
 <div align='center'>
@@ -24,7 +24,8 @@
 
 <div align='center'>
 	
-[![GitHub Streak](https://streak-stats.demolab.com?user=fedetomassini&theme=catppuccin-mocha&hide_border=true&mode=weekly)](https://git.io/streak-stats)<br/>
+[![@fedetomassini](https://streak-stats.demolab.com?user=fedetomassini&theme=catppuccin-mocha&hide_border=true&mode=weekly)]
+<br/>
 <img src='https://komarev.com/ghpvc/?username=fedetomassini&style=for-the-badge&color=d14d72'/>
 
 </div>
