@@ -24,7 +24,7 @@
 
 <div align='center'>
 	
-[![@fedetomassini](https://streak-stats.demolab.com?user=fedetomassini&theme=catppuccin-mocha&hide_border=true&mode=weekly)]
+![@fedetomassini](https://streak-stats.demolab.com?user=fedetomassini&theme=catppuccin-mocha&hide_border=true&mode=weekly)
 <br/>
 <img src='https://komarev.com/ghpvc/?username=fedetomassini&style=for-the-badge&color=d14d72'/>
 
