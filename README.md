@@ -1,31 +1,13 @@
-<div align='center'>
-    <h3>Hey hey! (◠.◠)</h3>
-    <p>🙋‍♂️ I'm Federico Tomassini, a web developer and sometimes hobbyist music composer 😀</p>
-    <p>After spending some time studying music composition, I decided to focus on another one of my passions (besides music ♪♫), programming - specifically, as a web developer.</p>
-    <span>Since 2021, I've been fully committed to learning and striving to become better every week 😁</span>
-</div>
+[![image.jpg](https://i.postimg.cc/nrsxYsm3/image.jpg)](https://postimg.cc/YLwTtCbF)
 
-<div align='center'>
-    <h3>▸ Blog ◂</h3>
-    <p>☯ https://fedetomassini.vercel.app ☯</p>
-</div>
+### 🙋‍♂️ Hey hey! 
 
-<div align='center'>
-    <h3>▸ Knowledge ◂</h3>
-	<img src='https://skillicons.dev/icons?i=html,css,sass,js,nodejs,bootstrap,express,react,git,tailwind,vite&perline=11'/>
-</div>
+#### ~ I'm [Federico Tomassini](https://fedetomassini.vercel.app), a web developer since 2021 and sometimes hobbyist music composer 😃
 
-<div align='center'>
-    <h3>▸ Objectives to learn :) ◂</h3>
-	<img src='https://skillicons.dev/icons?i=ts,python,redux,nextjs,postgres,mongodb&perline=6'/>
-</div>
+> Open to job opportunities - [LinkedIn](https://www.linkedin.com/in/fedetomassini) || [Gmail](mailto:fedetomassini.dev@gmail.com);<br>
+> I'm mostly active on [Discord](https://discordapp.com/users/848281064241365062);<br>
 
-#
-
-<div align='center'>
-	
-![@fedetomassini](https://streak-stats.demolab.com?user=fedetomassini&theme=catppuccin-mocha&hide_border=true&mode=weekly)
-<br/>
-<img src='https://komarev.com/ghpvc/?username=fedetomassini&style=for-the-badge&color=d14d72'/>
-
-</div>
+- ⚙️ I use daily: `html`, `css/sass`, `javascript`, `react`, `vite`, `astro`, `node`, `express`, `git`, `tailwind/bootstrap`
+- 📒 Learning: `typescript`, `python`, `next`, `postgresql` 
+- 🗂️ My projects: [todolist-app](https://ft-todolist.vercel.app), [safepass](https://ft-safepass.vercel.app), [palindromeornot](https://palindromeornot.vercel.app), [worldweather](https://worldweathersite.vercel.app/) etc…
+- 💬 `ping` me about **design**, **job opportunities**, **projects**, **development**, etc…
