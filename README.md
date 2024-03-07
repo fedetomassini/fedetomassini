@@ -9,5 +9,5 @@
 
 - ⚙️ I use daily: `html`, `css/sass`, `javascript`, `react`, `vite`, `astro`, `node`, `express`, `git`, `tailwind/bootstrap`
 - 📒 Learning: `typescript`, `python`, `next`, `postgresql` 
-- 🗂️ My projects: [todolist-app](https://ft-todolist.vercel.app), [safepass](https://ft-safepass.vercel.app), [palindromeornot](https://palindromeornot.vercel.app), [worldweather](https://worldweathersite.vercel.app/) etc…
+- 🗂️ My projects: [domainsdb](https://domainsdb.vercel.app), [todolist-app](https://ft-todolist.vercel.app), [safepass](https://ft-safepass.vercel.app), [palindromeornot](https://palindromeornot.vercel.app), [worldweather](https://worldweathersite.vercel.app/), etc…
 - 💬 `ping` me about **design**, **job opportunities**, **projects**, **development**, etc…
