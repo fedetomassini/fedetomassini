@@ -4,7 +4,7 @@
 
 #### ~ I'm [Federico Tomassini](https://fedetomassini.vercel.app), a web developer since 2021 and sometimes hobbyist music composer 😃
 
-> Currently building [@Monetario](https://monetario.vercel.app) & [Invbox](https://invbox.vercel.app);<br>
+> Currently building [@Invbox](https://invbox.vercel.app) & [@Monetario](https://monetario.vercel.app);<br>
 > Open to job opportunities - [LinkedIn](https://www.linkedin.com/in/fedetomassini) || [Gmail](mailto:fedetomassini.dev@gmail.com);<br>
 > I'm mostly active on [Discord](https://discordapp.com/users/848281064241365062);<br>
 
