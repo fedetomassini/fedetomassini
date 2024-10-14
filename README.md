@@ -10,5 +10,5 @@
 
 - ⚙️ I use daily: `html`, `css/sass`, `javascript/typescript`, `react`, `node`, `next`, `express`, `git`, `tailwind`
 - 📒 Learning: `python`, `mongo`
-- 🗂️ Other projects: [domainsdb](https://domainsdb.vercel.app), [netscope](https://netscope.vercel.app/), [todolist-app](https://ft-todolist.vercel.app), [safepass](https://ft-safepass.vercel.app), [palindromeornot](https://palindromeornot.vercel.app), etc…
+- 🗂️ Other projects: [domainsdb](https://domainsdb.vercel.app), [netscope](https://netscope.vercel.app/), [todolist-app](https://ft-todolist.vercel.app), [safepass](https://ft-safepass.vercel.app), [twintext](https://twintext.vercel.app), etc…
 - 💬 `ping` me about **design**, **job opportunities**, **projects**, **development**, etc…
