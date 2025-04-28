@@ -10,6 +10,6 @@
 > I'm mostly active on [Discord](https://discordapp.com/users/848281064241365062);<br>
 
 - ⚙️ I use daily: `html`, `css/sass`, `javascript/typescript`, `react`, `node`, `next`, `express/nest`, `git`, `tailwind`, `sql/nosql`
-- 📒 Learning: `???`
+- 📒 Learning: `php`
 - 🗂️ Other projects: [vaultify](https://app-vaultify.vercel.app), [domainsdb](https://domainsdb.vercel.app), [netscope](https://netscope.vercel.app/), [todolist-app](https://ft-todolist.vercel.app), [twin](https://twintext.vercel.app), etc…
 - 💬 `ping` me about **design**, **job opportunities**, **projects**, **development**, etc…
