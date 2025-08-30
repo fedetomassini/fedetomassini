@@ -14,10 +14,12 @@
 - 💬 `ping` me about **design**, **job opportunities**, **projects**, **development**, etc…
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://nirzak-streak-stats.vercel.app?user=fedetomassini&theme=dark&hide_border=true&border_radius=0&mode=weekly&card_height=150" 
+  <img src="https://nirzak-streak-stats.vercel.app?user=fedetomassini&theme=dark&hide_border=true&border_radius=0&mode=weekly&card_height=150&background=00000000" 
        alt="Streak Stats" 
        height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedetomassini&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedetomassini&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000" 
        alt="Top Langs" 
        height="150">
 </div>
+
+
