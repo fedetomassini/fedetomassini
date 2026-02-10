@@ -1,8 +1,7 @@
 [![image.jpg](https://i.postimg.cc/nrsxYsm3/image.jpg)](https://postimg.cc/YLwTtCbF)
 
 ### 🙋‍♂️ Hey hey! 
-
-#### ~ I'm [Federico Tomassini](https://fedetomassini.vercel.app), a web developer since 2021 and sometimes hobbyist music composer 😃
+#### ~ I'm [Federico Tomassini](https://fedetomassini.dev), a web developer since 2021 and sometimes hobbyist music composer 😃
 
 > Currently building things for things for this strange world;<br>
 > Open to job opportunities - [LinkedIn](https://www.linkedin.com/in/fedetomassini) || [Gmail](mailto:fedetomassini.dev@gmail.com);<br>
@@ -20,6 +19,7 @@
        alt="Top Langs" 
        height="150">
 </div>
+
 
 
 
