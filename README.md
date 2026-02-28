@@ -8,7 +8,7 @@
 > I'm mostly active on [Discord](https://discordapp.com/users/848281064241365062);<br>
 
 - ⚙️ I use daily: `html`, `css/sass`, `javascript/typescript`, `react`, `node`, `next`, `express/nest`, `git`, `tailwind`, `sql/nosql`, `php`
-- 📒 Learning: `AI fundamentals`, `LLMs & AI tooling` and `other things`...
+- 📒 Learning: `???`
 - 💬 `ping` me about **design**, **job opportunities**, **projects**, **development**, etc…
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
@@ -21,3 +21,4 @@
        height="150">
   -->
 </div>
+
