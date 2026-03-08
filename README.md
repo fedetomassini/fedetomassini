@@ -1,24 +1,28 @@
 [![image.jpg](https://i.postimg.cc/nrsxYsm3/image.jpg)](https://postimg.cc/YLwTtCbF)
 
 ### 🙋‍♂️ Hey hey! 
-#### ~ I'm [Federico Tomassini](https://fedetomassini.dev), a software developer since 2021 and sometimes hobbyist music composer 😃
+#### ~ I'm [Federico Tomassini](https://fedetomassini.dev), a software developer since 2021 and a hobbyist music composer.
 
 > Currently building random things;<br>
 > Open to job opportunities - [LinkedIn](https://www.linkedin.com/in/fedetomassini) || [Gmail](mailto:fedetomassini.dev@gmail.com);<br>
 > I'm mostly active on [Discord](https://discordapp.com/users/848281064241365062);<br>
+---
+> - ###### Programming Languages (and html)  ↷
+> <img src="https://skills.syvixor.com/api/icons?perline=10&i=bash,js,ts,php,html,css,sass,md&perline=10" height="34" />
+>
+> - ###### Frameworks & Libraries  ↷
+> <img src="https://skills.syvixor.com/api/icons?perline=10&i=react,vite,vuejs,nextjs,expo,nodejs,express,nestjs,jquery,authjs,tailwind,bootstrap,materialui,shadcnui&perline=13" height="34" />
+>
+> - ###### Software & Tools  ↷
+> <img src="https://skills.syvixor.com/api/icons?perline=10&i=git,notion,githubactions,vscode,zshell,gitbash,trello,filezilla,xampp,jira,postman,linux,debian&perline=10" height="34" />
+>
+> - ###### Cloud & Platforms  ↷
+> <img src="https://skills.syvixor.com/api/icons?perline=10&i=githubpages,googlecloud,cloudflare,netlify,firebase,cpanel,vercel,supabase,mysql" height="34" />
+---
+- 💬 Ping me about **design**, **web development**, **projects**, or **job opportunities**.
 
-- ⚙️ I use daily: `html`, `css/sass`, `javascript/typescript`, `react`, `node`, `next`, `express/nest`, `git`, `tailwind`, `sql/nosql`, `php`
-- 📒 Learning: `???`
-- 💬 `ping` me about **design**, **job opportunities**, **projects**, **development**, etc…
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://nirzak-streak-stats.vercel.app?user=fedetomassini&theme=dark&hide_border=true&border_radius=0&mode=weekly&card_height=150&background=00000000" 
-       alt="Streak Stats" 
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app?user=fedetomassini&theme=dark&hide_border=true&border_radius=0&mode=weekly&card_height=150&background=00000000"
+       alt="Streak Stats"
        height="150">
-  <!--
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedetomassini&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000" 
-       alt="Top Langs" 
-       height="150">
-  -->
 </div>
-
