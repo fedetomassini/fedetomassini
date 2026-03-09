@@ -17,7 +17,7 @@
 > <img src="https://skills.syvixor.com/api/icons?perline=10&i=git,notion,githubactions,vscode,zshell,gitbash,trello,filezilla,xampp,jira,postman,linux,debian&perline=10" height="34" />
 >
 > - ###### Cloud & Platforms  ↷
-> <img src="https://skills.syvixor.com/api/icons?perline=10&i=githubpages,googlecloud,cloudflare,netlify,firebase,cpanel,vercel,supabase,mysql" height="34" />
+> <img src="https://skills.syvixor.com/api/icons?perline=10&i=githubpages,googlecloud,cloudflare,netlify,firebase,cpanel,vercel,supabase,mysql,mariadb" height="34" />
 ---
 - 💬 Ping me about **design**, **web development**, **projects**, or **job opportunities**.
 
@@ -26,3 +26,4 @@
        alt="Streak Stats"
        height="150">
 </div>
+
