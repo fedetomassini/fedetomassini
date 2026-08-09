@@ -1,4 +1,4 @@
-[![image.jpg](https://i.postimg.cc/nrsxYsm3/image.jpg)](https://postimg.cc/YLwTtCbF)
+[![image.jpg](https://i.postimg.cc/j20XxZps/ed260a4f-add5-4125-b580-df0f9bf4e301.png)](https://postimg.cc/G8KYzJ3N)
 
 ### 👋 Hello there!
 #### ~ I'm [Federico Tomassini](https://fedetomassini.dev), a software developer focused on building modern web applications and scalable systems.
@@ -9,7 +9,7 @@
 
 - ⚙️ Daily stack: `html`, `css/sass`, `javascript/typescript`, `react`, `next`, `node`, `express/nest`, `php`, `tailwind`, `sql/nosql`, `git`
 - 🚀 Interested in: `web architecture`, `ui/ux`, `automation`, `scalable systems`
-- 📚 Currently learning: `???`
+- 📚 Currently learning: `AI workflows`
 - 💬 Feel free to `ping` me about **development**, **projects**, **startups**, **design systems**, or **tech ideas**
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
