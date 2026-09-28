@@ -7,10 +7,10 @@
 > Open to collaborations and job opportunities — [LinkedIn](https://www.linkedin.com/in/fedetomassini) || [Gmail](mailto:fedetomassini.dev@gmail.com);<br>
 > Usually active on [Discord](https://discordapp.com/users/848281064241365062);<br>
 
-- ⚙️ Daily stack: `html`, `css/sass`, `javascript/typescript`, `react`, `next`, `node`, `express/nest`, `php`, `tailwind`, `sql/nosql`, `git`
-- 🚀 Interested in: `web architecture`, `ui/ux`, `automation`, `scalable systems`
-- 📚 Currently learning: `AI workflows`
-- 💬 Feel free to `ping` me about **development**, **projects**, **startups**, **design systems**, or **tech ideas**
+- ⚙️ Daily stack: `html`, `css/sass`, `javascript/typescript`, `react`, `next.js`, `node.js`, `express`, `nest.js`, `php`, `tailwind css`, `sql/nosql`, `git`, `gnu/linux`
+- 🚀 Interested in: `web architecture`, `system design`, `performance`, `automation`, `scalable systems`
+- 📚 Currently exploring: `AI workflows`, `AI integrations`, `developer tools`
+- 💬 Feel free to `ping` me about **development**, **projects**, **architecture**, **systems**, or **tech ideas**
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <!--
