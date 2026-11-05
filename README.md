@@ -1,7 +1,7 @@
 [![image.jpg](https://i.postimg.cc/j20XxZps/ed260a4f-add5-4125-b580-df0f9bf4e301.png)](https://postimg.cc/G8KYzJ3N)
 
 ### 👋 Hello there!
-#### ~ I'm [Federico Tomassini](https://fedetomassini.dev), a software developer focused on building modern web applications and scalable systems.
+#### ~ I'm [Federico Tomassini](https://fedetomassini.dev), a product and software engineer focused on building modern web applications and scalable systems.
 
 > Building products, tools and experimental ideas;<br>
 > Open to collaborations and job opportunities — [LinkedIn](https://www.linkedin.com/in/fedetomassini) || [Gmail](mailto:fedetomassini.dev@gmail.com);<br>
