@@ -4,6 +4,7 @@
 #### ~ I'm [Federico Tomassini](https://fedetomassini.dev), a product and software engineer focused on building modern web applications and scalable systems.
 
 > Building products, tools and experimental ideas;<br>
+> Currently building [Zelk](https://zelk.dev) at [@zelktools](https://github.com/zelktools).<br>
 > Open to collaborations and job opportunities — [LinkedIn](https://www.linkedin.com/in/fedetomassini) || [Gmail](mailto:fedetomassini.dev@gmail.com);<br>
 > Usually active on [Discord](https://discordapp.com/users/848281064241365062);<br>
 
